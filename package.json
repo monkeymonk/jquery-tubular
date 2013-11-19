@@ -1,0 +1,17 @@
+{
+    "name": "jquery-tubular",
+    "version": "0.0.1",
+    "description": "This repository is a fork of jQuery tubular plugin by Sean McCambridge (http://www.seanmccambridge.com/tubular).",
+    "author": "Stéphan Zych",
+    "license": "MIT",
+    "devDependencies": {
+        "grunt": "latest",
+        "grunt-contrib-clean": "latest",
+        "grunt-contrib-connect": "latest",
+        "grunt-contrib-jshint": "latest",
+        "grunt-contrib-uglify": "latest",
+        "grunt-contrib-watch": "latest",
+        "grunt-recess": "latest",
+        "grunt-shell": "latest"
+    }
+}
